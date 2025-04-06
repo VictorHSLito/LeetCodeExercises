@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0242-valid-anagram) |
 | [0816-design-hashset](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0816-design-hashset) |
@@ -18,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0217-contains-duplicate) |
 | [0816-design-hashset](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0816-design-hashset) |
 ## Trie
@@ -42,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0816-design-hashset) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
