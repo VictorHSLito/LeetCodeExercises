@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0242-valid-anagram) |
+| [0948-sort-an-array](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0948-sort-an-array) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0217-contains-duplicate) |
 | [0816-design-hashset](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0817-design-hashmap) |
+| [0948-sort-an-array](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0948-sort-an-array) |
 | [2058-concatenation-of-array](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/2058-concatenation-of-array) |
 ## Trie
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0169-majority-element) |
+| [0948-sort-an-array](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -72,4 +75,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/2058-concatenation-of-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0948-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
