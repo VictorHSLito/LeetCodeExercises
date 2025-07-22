@@ -12,8 +12,7 @@ class Solution {
             if ((!map.containsKey(ch)) || map.get(ch) == 0) return false;
             map.put(ch, map.get(ch) - 1);
         }
-        System.out.println(map);
-
+        
         return true;
     }
 }
