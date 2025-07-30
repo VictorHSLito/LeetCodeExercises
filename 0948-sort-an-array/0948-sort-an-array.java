@@ -4,57 +4,59 @@ class Solution {
         return nums;
     }
 
-    private static void mergeSort(int [] array) {
-        int length = array.length;
-        if (length < 2) {
+
+    private static void mergeSort(int[] array) {
+        int size = array.length;
+
+        if (size < 2) {
             return;
         }
 
-        int middle = length / 2;
+        int middle = size/2;
 
-        int[] halfLeftArray = new int[middle];
-        int[] halfRightArray = new int[length - middle];
+        int[] leftArray = new int[middle];
+        int[] rightArray = new int[size-middle];
 
         for (int i = 0; i < middle; i++) {
-            halfLeftArray[i] = array[i];
+            leftArray[i] = array[i];
         }
 
-        for (int i = middle;  i < length;  i++) {
-            halfRightArray[i - middle] = array[i];
+        for (int j = middle; j < size; j++) {
+            rightArray[j-middle] = array[j];
         }
 
-        mergeSort(halfLeftArray);
-        mergeSort(halfRightArray);
+        mergeSort(leftArray);
+        mergeSort(rightArray);
 
-        merge(array, halfLeftArray, halfRightArray);
+        merge(array, leftArray, rightArray);
     }
 
-    private static void merge(int[] inputArray, int[] leftArray, int[] rightArray) {
+
+    private static void merge(int[] array, int[] leftArray, int[] rightArray) {
         int leftSize = leftArray.length;
         int rightSize = rightArray.length;
 
         int i = 0, j = 0, k = 0;
-
         while (i < leftSize && j < rightSize) {
             if (leftArray[i] <= rightArray[j]) {
-                inputArray[k] = leftArray[i];
+                array[k] = leftArray[i];
                 i++;
             }
             else {
-                inputArray[k] = rightArray[j];
+                array[k] = rightArray[j];
                 j++;
             }
             k++;
         }
 
         while (i < leftSize) {
-            inputArray[k] = leftArray[i];
+            array[k] = leftArray[i];
             i++;
             k++;
         }
 
         while (j < rightSize) {
-            inputArray[k] = rightArray[j];
+            array[k] = rightArray[j];
             j++;
             k++;
         }
