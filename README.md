@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0088-merge-sorted-array) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0217-contains-duplicate) |
@@ -171,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
