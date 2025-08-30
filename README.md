@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0816-design-hashset) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0948-sort-an-array) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0347-top-k-frequent-elements) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
