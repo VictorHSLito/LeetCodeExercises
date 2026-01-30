@@ -2,11 +2,7 @@ class Solution {
     public boolean isPalindrome(String s) {
         if (s.isBlank()) return true;
 
-        int stringSize = s.length();
-
-        String modifiedString = s.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
-
-        modifiedString = modifiedString.replace(",", "");
+        String modifiedString = s.replaceAll("[^a-zA-Z0-9]", "").replace(",", "").toLowerCase();
 
         char[] charArray = modifiedString.toCharArray();
 
