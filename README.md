@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/1894-merge-strings-alternately) |
 ## Simulation
 |  |
 | ------- |
