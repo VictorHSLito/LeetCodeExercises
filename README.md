@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0229-majority-element-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/1894-merge-strings-alternately) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0680-valid-palindrome-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VictorHSLito/LeetCodeExercises/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
