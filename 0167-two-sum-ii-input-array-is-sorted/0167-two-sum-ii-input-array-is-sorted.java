@@ -3,20 +3,19 @@ class Solution {
     // -> Maybe we can get the target and "cut" the search based on it value
     // The tests have exactly one solution
     public int[] twoSum(int[] numbers, int target) {
-        if (numbers.length == 2) {
-            return new int[] {1, 2};
-        }
+        int j = numbers.length - 1;
 
-        int arrayLength = numbers.length - 1;
+        for (int i = 0; i < j; ) {
+            int currentSum = numbers[i] + numbers[j];
+            
+            if (currentSum == target) return new int[] {i + 1, j + 1};
 
-        int j = arrayLength;
-
-        for (int i = 0; i < arrayLength; i++) {
-            int find = target - numbers[j];
-            for (int k = 0; k < j; k++) {
-                if (numbers[k] == find) return new int[] {k + 1, j + 1};
+            if (currentSum > target) {
+                j--;
             }
-            j--;
+            else {
+                i++;
+            }
         }
 
         return new int[] {1, 2};
